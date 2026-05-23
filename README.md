@@ -1,9 +1,11 @@
 # Labib Al Faisal
 
+<!--
 - 💡 About : **Curious Mind | Learner | Builder | Breaker**
 - 🌟 Passion : **Programming** | **Systems**
 - 🧑‍💻 Languages: **C** | **C++** | **Go**
 - 🏆 Active in Competitive Programming Challenges
+-->
 
 ---
 ![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
