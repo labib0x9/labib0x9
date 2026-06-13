@@ -1,4 +1,4 @@
-# Labib Al Faisal
+# Curious  ||  Learner
 <!--
 - 💡 About : **Curious Mind | Learner | Builder | Breaker**
 - 🌟 Passion : **Programming** | **Systems**
@@ -10,8 +10,9 @@
 ![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
--->
+
 ---
+-->
 ![](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
