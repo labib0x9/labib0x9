@@ -1,4 +1,4 @@
-# Curious  -  Learner
+# CSE Student | Building Backend Systems in Go | ICPC Competitor
 ![](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
